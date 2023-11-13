@@ -1,0 +1,31 @@
+<img src= "barbearialura.jpg">
+
+body {
+    background: #8f94da;
+}
+
+h1 {
+    text-align: center;
+    background: #065f2b
+}
+
+
+p{
+    text-align: center;
+    background: #9adab5
+}
+em strong {
+    color:red
+}
+
+#missao {
+    font-size: 20px;
+}
+#banner {
+    width: 100%;
+}
+
+.benefícios {
+    background: #b1ffc8;
+}
+
